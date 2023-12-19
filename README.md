@@ -7,3 +7,4 @@ Model evaluation.
 Training and Testing the model.
 Implemented four models Linear Regression, Random Forest Regression, Grandient Boost Regression and XGBoost Regression.
 Achieved highest accuracy in XGBoost Regression with 88%.
+Predicting the price of laptops with different inputs of specifications.
